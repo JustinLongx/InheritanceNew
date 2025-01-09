@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\justi\\OneDrive\\Desktop\\2024 C#\\TrueCoders 2024\\Repo 2024\\InheritanceNew\\InheritanceNew\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82FD93F5-7225-4028-8A5D-F5F128514840}|InheritanceNew.csproj|c:\\users\\justi\\onedrive\\desktop\\2024 c#\\truecoders 2024\\repo 2024\\inheritancenew\\inheritancenew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FD93F5-7225-4028-8A5D-F5F128514840}|InheritanceNew.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Desktop\\2024 C#\\TrueCoders 2024\\Repo 2024\\InheritanceNew\\InheritanceNew\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Desktop\\2024 C#\\TrueCoders 2024\\Repo 2024\\InheritanceNew\\InheritanceNew\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:41:14.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
